@@ -11,6 +11,14 @@ The clean_book_text() function is utilized to clean the book text.
 
 The create_trigrams() function is utilized to create trigrams and count their frequencies.
 
+## Task 2 Functions
+
+The create_book_text_from_trigram_model() function is beneficial for creating text by applying the trigram models that were created in Task 1.
+ 
+
+
+
+
 
 
 
