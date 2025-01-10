@@ -23,6 +23,10 @@ The obtain_words_from_book_text() function is used to extract words from the cre
 
 The calculate_percentage_of_authentic_words() function is used to calculate the percentage of authentic English words.
 
+## Task 4 Functions
+
+The export_trigram_model_to_json() function is utilized to export the trigram model as JSON.
+
 
 
 
